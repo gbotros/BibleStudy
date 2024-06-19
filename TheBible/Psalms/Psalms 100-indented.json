@@ -1,0 +1,37 @@
+[
+  {
+    "bookName": "Psalms",
+    "chapter": 100,
+    "verse": 1,
+    "text": "A thanksgiving psalm. Shout out praises to the Lord, all the earth! ",
+    "reference": "Psalms 100:1"
+  },
+  {
+    "bookName": "Psalms",
+    "chapter": 100,
+    "verse": 2,
+    "text": "Worship the Lord with joy. Enter his presence with joyful singing. ",
+    "reference": "Psalms 100:2"
+  },
+  {
+    "bookName": "Psalms",
+    "chapter": 100,
+    "verse": 3,
+    "text": "Acknowledge that the Lord is God. He made us and we belong to him, we are his people, the sheep of his pasture. ",
+    "reference": "Psalms 100:3"
+  },
+  {
+    "bookName": "Psalms",
+    "chapter": 100,
+    "verse": 4,
+    "text": "Enter his gates with thanksgiving and his courts with praise. Give him thanks. Praise his name. ",
+    "reference": "Psalms 100:4"
+  },
+  {
+    "bookName": "Psalms",
+    "chapter": 100,
+    "verse": 5,
+    "text": "For the Lord is good. His loyal love endures, and he is faithful through all generations. ",
+    "reference": "Psalms 100:5"
+  }
+]

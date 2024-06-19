@@ -20,5 +20,6 @@ It also performs text analysis and generates summaries.
    - Stores the index in a separate JSON file.
 
 ## Usage
-you can find the generated output here under `TheBible` folder and `TheBible/summaries` folder
+you can find the generated output here at 
+[TheBible folder](/TheBible) and [The bible summaries folder](\TheBible\summaries)
 
